@@ -1,0 +1,16 @@
+.dropdown-toggle::after {
+    /* vertical-align: 1px; */
+}
+
+li.c-sidebar-nav-dropdown ul.c-sidebar-nav-dropdown-items{
+    /* display: none; */
+    padding-left: 30px;
+}
+.c-sidebar .c-sidebar-nav-link.c-active, 
+.c-sidebar .c-active.c-sidebar-nav-dropdown-toggle{
+    background: rgba(255, 0, 0, 0.05) !important;
+}
+.form-control,
+.custom-select{
+    color: black !important;
+}
